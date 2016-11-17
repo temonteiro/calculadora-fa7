@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="escolha">Escolha o tipo de Calculadora:</string>
+    <string name="tradicional">Tradicional</string>
+    <string name="cientifica">Científica</string>
+
+    <string name="num1">Digite o 1º numero:</string>
+    <string name="num2">Digite o 2º numero:</string>
+    <string name="somar">Somar</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="multiplicar">Dividir</string>
+    <string name="dividir">Multiplicar</string>
+    <string name="resultado">Resultado:</string>
+
+    <string name="exponencial">Exponencial</string>
+    <string name="logritmo">Logaritmo</string>
+    <string name="raiz">Raiz²</string>
+    <string name="seno">Seno</string>
+    <string name="cosseno">Cosseno</string>
+    <string name="tangente">Tangente</string>
+</resources>
